@@ -37,8 +37,8 @@ This is a simple responsive Calculator.
 
 ## 🎯 Goal
 
-- To learn CSS animations
-- To apply JavaScript event listener and eval function
+- [x] To learn CSS animations
+- [x] To apply JavaScript event listener and eval function
 
 
 ## 🖼️ Screenshot
