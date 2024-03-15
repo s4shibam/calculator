@@ -1,25 +1,52 @@
-### Calculator - Glassmorphism Theme
+<p align="center">
+    <a href="https://calculator.shibamsaha.dev">
+        <img alt="Calculator" width="100" src="./images/logo.ico" style="border-radius: 10px">
+    </a>
+</p>
 
-**Details**
+<div align="center">
+    <h1>Calculator</h1>
+    <p>Calculator</p>
+</div>
 
-- This is a Calculator Web Application with all the basic features and functionalities like basic binary operations along with _Delete_ and _All Clear_ button.
-- The design has been enhanced with a glossy (Glassmorphism effect), 3d looking color effect along with an background animation of moving monochrome bubbles.
+<p align="center">
+    <img src="https://img.shields.io/github/languages/code-size/s4shibam/calculator?style=flat-square" alt="Code Size">
+    <img src="https://img.shields.io/github/stars/s4shibam/calculator?style=flat-square&logo=github" alt="Stars">
+</p>
 
-**Tech Stack**
 
-- This Calculator Web Application is made with HTML, CSS and Vanilla Javascript only.
+<br />
 
-**Live Link**
 
-- [Calculator Web App](https://s4shibam-calculator.netlify.app)
+## ⚡ Introduction
 
-**Reference Image**
+This is a simple responsive Calculator.  
 
-<img src="./media/Calculator.png" alt="Calculator" style="width: 75%; height: auto"/>
+## ✨ Features
+  
+- Basic binary operations
+- Delete and All Clear support
+- Glassmorphism Effect  
 
-<br/>
+## ⚙️ Tech Stack
+  
+- HTML
+- CSS
+- JavaScript
 
-**Follow Me**
+
+## 🎯 Goal
+
+- To learn CSS animations
+- To apply JavaScript event listener and eval function
+
+
+## 🖼️ Screenshot
+
+![Screenshot 1](./readme_assets/screenshot_1.png)
+
+
+## 👋🏻 Contact
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/s4shibam)
-[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/s4shibam)
+[![Twitter](https://img.shields.io/badge/Twitter-00ACEE?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/intent/follow?screen_name=s4shibam)
